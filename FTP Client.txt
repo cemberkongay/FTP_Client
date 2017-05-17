@@ -5,18 +5,6 @@
 •	Upload Class
 Temel 4 class üzerine kurulacak bir uygulama, komut ile FTP Client yapımı.
 
-1.	Başla
-2.  FTP sunucu ismini gir
-3.	FTP sunucu kullanıcı adını gir
-4.	FTP sunucu şifresini gir
-5.	Eğer isim ve şifre doğruysa server’a bağlan // Değilse hata “Girdiğiniz Bilgileri Hatalı Kontrol ediniz.” bilgisi döndür
-6.	Eğer FTP server da dosya varsa görüntüle // Yoksa “Görüntülenecek Dosya yok “ bilgisi döndür
-7.	“Dosya indirmek için “DWN [dosya numarası]”, yüklemek için “UPD [dosyanın uzantısı]”, Çıkış için “EXT” komutlarını kullanınız” ekrana bas.
-8.	Kullanıcı dosya indirecekse seçilen dosyayı masaüstüne indir. 5. adıma dön.
-9.	Dosya yükleyecekse verdiği uzantıdaki dosyayı servera yükle. 5. adıma dön.
-10.	Çıkış komutu verildiyse server bağlantısını kapat. Verilmediyse 5. Adıma dön.
-11.	Dur
-
 
 FTP Client uygulaması arayüz gerektirmeden terminal üzerinden server’a kolayca bağlanmanızı sağlayarak dosyalarınızı kontrol etmenizi sağlayacaktır. Basit komutlarla, FTP server üzerinden, görüntüleme,  indirme, yükleme işlemlerini gerçekleştirebileceksiniz.
 
