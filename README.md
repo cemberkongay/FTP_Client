@@ -1,6 +1,5 @@
 # FTP-Client
 
--FTP Client
 •	Bağlantı 
 •	Dosya Görüntüleme
 •	İndirme 
