@@ -3,6 +3,8 @@ __author__ = 'cemberk'
 from ftplib import FTP
 import sys,os
 
+#------ Only connections and downloads -----
+
 ftp = FTP('*******')     #Host IP
 ftp.login('******', '*******') #Host username and password
 ftp.retrlines('LIST') #List files which in the main directory
