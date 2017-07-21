@@ -1,16 +1,13 @@
 # FTP-Client
 
-•	Bağlantı 
-•	Dosya Görüntüleme
-•	İndirme 
-•	Yükleme
-• Silme
-• Dosya Yaratma
-• Dosya İsim Değişikliği
-• Dosya İzin Değişikliği
-• Dosyanın Yerini Değiştirme
-işlemleri terminal üzerinden yapılabilinir.
-
+- Bağlantı,
+- Dosya Listeleme,
+- Dosya İndirme,
+- Dosya Yükleme,
+- Klasör Oluşturma,
+- Dosya/Klasör isim değiştirme,
+- Dosya/Klasör erişim izinlerini ayarlama,
+- Dosyanın yerini değiştirme işlemlerini terminal üzerinden yapabilirsiniz.
 
 FTP Client uygulaması arayüz gerektirmeden terminal üzerinden server’a kolayca bağlanmanızı sağlayarak dosyalarınızı kontrol etmenizi sağlayacaktır.
 
