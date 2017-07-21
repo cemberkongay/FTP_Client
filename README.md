@@ -1,15 +1,19 @@
 # FTP-Client
 
 -FTP Client
-•	Connection Class
-•	Folder View Class
-•	Download Class
-•	Upload Class
-komut ile FTP Client yapımı.
+•	Bağlantı 
+•	Dosya Görüntüleme
+•	İndirme 
+•	Yükleme
+• Silme
+• Dosya Yaratma
+• Dosya İsim Değişikliği
+• Dosya İzin Değişikliği
+• Dosyanın Yerini Değiştirme
+işlemleri terminal üzerinden yapılabilinir.
 
 
-FTP Client uygulaması arayüz gerektirmeden terminal üzerinden server’a kolayca bağlanmanızı sağlayarak dosyalarınızı kontrol etmenizi sağlayacaktır. Basit komutlarla, FTP server üzerinden, görüntüleme,  indirme, yükleme işlemlerini gerçekleştirebileceksiniz.
-
+FTP Client uygulaması arayüz gerektirmeden terminal üzerinden server’a kolayca bağlanmanızı sağlayarak dosyalarınızı kontrol etmenizi sağlayacaktır.
 
 FTP_Client.py dosyasında sistem içinde yapılacak işlemler için gerekli metodlar tanımlanmıştır.
 
@@ -21,7 +25,7 @@ FTP_Client.py dosyasında sistem içinde yapılacak işlemler için gerekli meto
   - def permissionFolder (perm):
   - def moveFile (mv):
   
-Connection.py dosyasında FTP serverımıza bağlantı sağladığımız kodlar kullanılmıştır.
+
 
 
   
